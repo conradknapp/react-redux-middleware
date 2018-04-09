@@ -1,0 +1,29 @@
+main {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+input {
+  outline: none;
+  width: 100%;
+  font-size: 2em;
+  border-radius: 0px;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+button {
+  font-size: 2em;
+}
+
+.Card {
+  display: grid;
+  justify-items: center;
+  align-items: center;
+}
